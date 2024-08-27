@@ -4,7 +4,7 @@
 - 🌱 I'm currently pursuing a B-tech in Information Technology at IIIT Lucknow.
 - 🔗 This is my [LinkedIn profile](https://www.linkedin.com/in/aditya-gopal-gunjkar-5b9437288/).
 - 📫 How to reach me: **aditya.gunjkar04@gmail.com**
-- ⚡ Fun fact: **I am very good at Chess :)**
+- ⚡ Extra Info: **I love to play Chess :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
