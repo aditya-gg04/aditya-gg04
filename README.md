@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer.</h3>
 
 - 🌱 I'm currently pursuing a B-tech in Information Technology at IIIT Lucknow.
-- 🔗 This is my [LinkedIn profile](https://www.linkedin.com/in/aditya-gopal-gunjkar-5b9437288/).
+- 🔗 This is my [LinkedIn profile](https://www.linkedin.com/in/aditya-gunjkar-5b9437288/).
 - 📫 How to reach me: **aditya.gunjkar04@gmail.com**
 - ⚡ Extra Info: **I love to play Chess :)**
 
